@@ -1,0 +1,13 @@
+
+.btn-primary{
+    background-color: #80765D;
+     color: azure; 
+     margin-top: 20px; 
+     height: 50px; 
+     width: 250px;
+}
+.btn-primary:hover{
+    background-color: #bba57e;
+    color: black;
+    border: none;
+}
